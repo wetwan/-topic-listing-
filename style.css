@@ -910,6 +910,11 @@ footer .logo{
     margin: 12px;
     
 }
+.copyright button:hover{
+    background: #13577f;
+    margin: 12px;
+    
+}
 .copyright button {
     background-color: #99e0f1;
     color: aliceblue;
